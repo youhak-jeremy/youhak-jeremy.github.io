@@ -9,25 +9,25 @@ sidebar:
 
     # Profile information
     name: Youhak (Jeremy) Lee
-    tagline: Full Stack Developer
+    tagline: Ph.D student @UCSD
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: yhl004 AT ucsd DOT edu
+    # phone: 012 345 6789
+    timezone: Pacific time zone
+    # citizenship:
+    website: youhak-jeremy.github.io #do not add http://
+    linkedin: https://www.linkedin.com/in/youhak-jeremy-lee-85b92721b/
+    # xing: alandoe
+    github: youhak-jeremy
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    # twitter: '@webjeda'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
