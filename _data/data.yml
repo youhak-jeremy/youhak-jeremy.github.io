@@ -18,7 +18,7 @@ sidebar:
     timezone: Pacific time zone
     # citizenship:
     website: youhak-jeremy.github.io #do not add http://
-    linkedin: https://www.linkedin.com/in/youhak-jeremy-lee-85b92721b/
+    linkedin: youhak-jeremy
     # xing: alandoe
     github: youhak-jeremy
     # telegram: # add your nickname without '@' sign
@@ -28,30 +28,30 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://drive.google.com/file/d/1IvjIeTcS0_X3Zu7Zo7En0r0uyTi251I4/view?usp=share_link
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Korean
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        # - idiom: Spanish
+        #  level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Tennis
           link:
 
-        - item: Snowboarding
+        - item: Piano
           link:
 
-        - item: Cooking
+        - item: Reading
           link:
 
 career-profile:
