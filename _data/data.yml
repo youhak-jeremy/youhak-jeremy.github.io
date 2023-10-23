@@ -15,9 +15,9 @@ sidebar:
     # Sidebar links
     email: yhl004 AT ucsd DOT edu
     # phone: 012 345 6789
-    timezone: Pacific time zone
+    # timezone: Pacific time zone
     # citizenship:
-    website: youhak-jeremy.github.io #do not add http://
+    # website: youhak-jeremy.github.io #do not add http://
     linkedin: youhak-jeremy
     # xing: alandoe
     github: youhak-jeremy
@@ -58,39 +58,34 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      
 education:
     title: Education
     info:
       - degree: PhD (CSE) (Advisor: Tajana Rosing)
         university: University of California, San Diego
         time: 2022 - present
-        # details: |
-        #   Describe your study here lorem ipsum dolor sit amet, consectetuer
-        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        #   sociis natoque penatibus et magnis dis parturient montes, nascetur
-        #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        #   pretium quis, sem.
-        #     - Bullet point
-        #     - Bullet point
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
       - degree: MS (ECE) (Advisor: Hyuk-jae Lee)
         university: Seoul National University
         time: 2017 - 2019
-        # details: |
-        #   Describe your study here lorem ipsum dolor sit amet, consectetuer
-        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        #   sociis natoque penatibus et magnis dis parturient montes, nascetur
-        #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        #   pretium quis, sem.
-        #     - Bullet point
-        #     - Bullet point
-      - degree: MS (ECE) (Advisor: Hyuk-jae Lee)
-        university: Seoul National University
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - degree: BS (ECE)
+        university: Korea University
         time: 2013 - 2017
 
 experiences:
