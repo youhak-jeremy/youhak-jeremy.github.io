@@ -18,7 +18,6 @@ sidebar:
     # timezone: Pacific time zone
     # citizenship:
     # website: youhak-jeremy.github.io #do not add http://
-    googlescholar: https://scholar.google.com/citations?hl=en&user=C-ay2EcAAAAJ
     linkedin: youhak-jeremy
     # xing: alandoe
     github: youhak-jeremy
@@ -30,6 +29,7 @@ sidebar:
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://drive.google.com/file/d/1IvjIeTcS0_X3Zu7Zo7En0r0uyTi251I4/view?usp=share_link
+    googlescholar: https://scholar.google.com/citations?hl=en&user=C-ay2EcAAAAJ
 
     languages:
       title: Languages
@@ -58,12 +58,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      He is an upcoming second-year Ph.D. student in the CSE department at UCSD. 
+      He has research interests in the overall computer architecture area and systems for deep learning. 
+      His advisor is Tajana Rosing in the System Energy Efficiency (SEE) Lab. 
+      He has studied hyperdimensional computing and PIM architecture and submitted a paper about that. 
+      He is now doing an internship at Samsung Semiconductor US in San Diego. 
+      His manager is Mostafa El-Khamy, and he is developing on-device training acceleration.
       
 education:
     title: Education
