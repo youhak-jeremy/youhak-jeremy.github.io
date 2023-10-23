@@ -58,12 +58,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        He is an upcoming second-year Ph.D. student in the CSE department at UCSD. 
-        He has research interests in the overall computer architecture area and systems for deep learning. 
-        His advisor is Tajana Rosing in the System Energy Efficiency (SEE) Lab. 
-        He has studied hyperdimensional computing and PIM architecture and submitted a paper about that. 
-        He is now doing an internship at Samsung Semiconductor US in San Diego. 
-        His manager is Mostafa El-Khamy, and he is developing on-device training acceleration.
+      dddd
 
 education:
     title: Education
@@ -71,25 +66,25 @@ education:
       - degree: PhD in CSE (Advisor: Tajana Rosing)
         university: University of California, San Diego
         time: 2022 - present
-        # details: |
-        #   Describe your study here lorem ipsum dolor sit amet, consectetuer
-        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        #   sociis natoque penatibus et magnis dis parturient montes, nascetur
-        #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        #   pretium quis, sem.
-        #     - Bullet point
-        #     - Bullet point
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
       - degree: MS in ECE (Advisor: Hyuk-jae Lee)
         university: Seoul National University
         time: 2017 - 2019
-        # details: |
-        #   Describe your study here lorem ipsum dolor sit amet, consectetuer
-        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        #   sociis natoque penatibus et magnis dis parturient montes, nascetur
-        #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        #   pretium quis, sem.
-        #     - Bullet point
-        #     - Bullet point
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 
 experiences:
     title: Experiences
