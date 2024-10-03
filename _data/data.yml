@@ -28,7 +28,7 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1ffAtDAa0kcKRNfkLPIDmA-7_Y7uW5H_M/view?usp=drive_link
+    pdf: https://drive.google.com/file/d/1ffAtDAa0kcKRNfkLPIDmA-7_Y7uW5H_M/view?usp=sharing
     googlescholar: https://scholar.google.com/citations?hl=en&user=C-ay2EcAAAAJ
 
     languages:
@@ -58,8 +58,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a second-year Ph.D. student in the CSE department at UCSD. I have research interests in the overall computer architecture area and systems for deep learning. My advisor is Tajana Rosing leading the System Energy Efficiency (SEE) Lab. Now I am studying federated learning with mobile devices for large deep neural network (DNN) models and fully homomorphic encryption (FHE). Additionally, I studied hyperdimensional computing and processing-in-memory (PIM) architecture, and submitted a paper about that. 
-      I did an internship at Samsung Semiconductor US in San Diego during this summer (2023). My manager was Mostafa El-Khamy, and my task was evaluating open-source projects related to federated learning and on-device training on mobile devices. 
+      I am a third-year Ph.D. student in the CSE department at UCSD. I have research interests in the overall computer architecture area and systems for ML/DL. My advisor is Tajana Rosing leading the System Energy Efficiency (SEE) Lab. Now I am studying federated learning with hyperdimensional computing (HDC) for edge devices and my previous work focused on HDC-based learning on processing-in-memory (PIM) architecture. 
+      I did an internship at NVIDIA in Santa Clara during 2024 summer. My manager was Dharmesh Jani, and my task was chip balance exploration with multi-GPU GEMMs as proxies for various applications. 
+      I did an internship at Samsung Semiconductor US in San Diego during 2023 summer. My manager was Mostafa El-Khamy, and my task was evaluating open-source projects related to federated learning and on-device training on mobile devices. 
       I had industrial experience at Chips&Media, Inc. for more than 3 years as a deep learning algorithm engineer. I was in charge of developing deep learning algorithms for super-resolution (SR) HW IPs. I devised many creative ideas for the HW IPs, and my team’s products were licensed by multiple corporations. 
       Also, I had research experience in the Computer Architecture and Parallel Processing Lab at Seoul National University. I developed optimized deep learning algorithms for multi-camera environments and combined conventional codecs with deep learning algorithms.
 
